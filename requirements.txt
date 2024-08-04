@@ -1,0 +1,6 @@
+debugpy==1.8.1
+gpuctypes==0.3.0
+numpy==1.26.4
+setuptools==69.5.1
+tinygrad @ git+https://github.com/tinygrad/tinygrad.git@43841a32b704c192e1d0ce302b923cce67362403
+tqdm==4.66.2
